@@ -43,4 +43,5 @@ if wants_to_play == "yes":
 
 else:
     print("oh...okay then.age")
-else: print("You are not old enough to play...")
+else: 
+    print("You are not old enough to play...")

@@ -1,8 +1,10 @@
 # AdventureGame
+
 """
 Edgar Barrera
 Submitted on 4/30/21 8:08 PM CST.
 """
+
 print("Welcome to my Adventure game!")
 name = input("What is your name? ")
 age = int(input("What is your age? "))
